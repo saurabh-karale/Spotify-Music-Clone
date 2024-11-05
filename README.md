@@ -1,2 +1,2 @@
 # Spotify-Music-Clone
-This is my Second clone site make in only HTML & CSS .
+This project is a scalable front page clone of Spotify Music , developed using HTML and CSS. It was created to demonstrate proficiency in front-end web development and design skills.
